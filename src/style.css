@@ -83,3 +83,8 @@ html[dir=rtl] a {
         float: left;
         width: 60%;
 }
+
+#notfound {
+		text-align: center;
+		font-size: xx-large;
+}
